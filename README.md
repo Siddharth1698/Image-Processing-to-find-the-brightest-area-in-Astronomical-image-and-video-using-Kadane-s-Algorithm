@@ -13,4 +13,11 @@ We then use openCV to read image and do some preprocessing and pass it to Kadane
 
 Basic Image:
 
-![Basic Image](https://github.com/Siddharth1698/Image-Processing-to-find-the-brightest-spot-in-Astronomical-images-using-Kadane-s-Algorithm/blob/main/tailstar.jpg)
+![Basic Image](https://github.com/Siddharth1698/Image-Processing-to-find-the-brightest-spot-in-Astronomical-images-using-Kadane-s-Algorithm/blob/main/imgstar.jpg)
+
+
+
+After Kadane's Algorithm:
+
+
+![Kadane Image](https://github.com/Siddharth1698/Image-Processing-to-find-the-brightest-spot-in-Astronomical-images-using-Kadane-s-Algorithm/blob/main/imgkadane.png)
