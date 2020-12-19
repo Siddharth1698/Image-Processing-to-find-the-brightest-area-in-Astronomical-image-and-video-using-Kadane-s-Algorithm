@@ -11,6 +11,8 @@ In image processing we modify Kadanes algo to a 2d array , please refer here: ht
 
 We then use openCV to read image and do some preprocessing and pass it to Kadanes algo to find the region which has highest sum which is our brightest spot. I have also implemented this to work for a Video.
 
+Main Code: Kadanes Algorithm for Bright Light spotting with Video.ipynb
+
 Basic Image:
 
 ![Basic Image](https://github.com/Siddharth1698/Image-Processing-to-find-the-brightest-spot-in-Astronomical-images-using-Kadane-s-Algorithm/blob/main/imgstar.jpg)
