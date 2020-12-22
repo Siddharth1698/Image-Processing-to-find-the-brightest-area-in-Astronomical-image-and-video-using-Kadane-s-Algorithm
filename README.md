@@ -1,5 +1,7 @@
 # Image Processing to find the brightest area in Astronomical image and video using Kadane's Algorithm
  Using Kadane's Algorithm to find the brightest area in Astronomical images.
+ 
+ Article: https://siddharth-m98.medium.com/dynamic-programming-with-opencv-implementing-kadanes-algorithm-to-find-brightest-area-on-9fe6e9af38d4
 
 The maximum subarray problem is used to identify the subarray of a two dimensional array, where the sum of
 elements is maximized. In terms of image processing, the solution has been used to find the brightest region
